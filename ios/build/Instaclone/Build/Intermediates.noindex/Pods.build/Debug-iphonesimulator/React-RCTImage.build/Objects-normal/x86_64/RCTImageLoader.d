@@ -1,0 +1,31 @@
+dependencies: \
+  /Users/raphaelfreitasdasilva/PROJETOS/Instaclone/node_modules/react-native/Libraries/Image/RCTImageLoader.m \
+  /Users/raphaelfreitasdasilva/PROJETOS/Instaclone/ios/Pods/Target\ Support\ Files/React-RCTImage/React-RCTImage-prefix.pch \
+  /Users/raphaelfreitasdasilva/PROJETOS/Instaclone/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Users/raphaelfreitasdasilva/PROJETOS/Instaclone/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Users/raphaelfreitasdasilva/PROJETOS/Instaclone/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Users/raphaelfreitasdasilva/PROJETOS/Instaclone/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/raphaelfreitasdasilva/PROJETOS/Instaclone/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Users/raphaelfreitasdasilva/PROJETOS/Instaclone/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/raphaelfreitasdasilva/PROJETOS/Instaclone/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/raphaelfreitasdasilva/PROJETOS/Instaclone/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Users/raphaelfreitasdasilva/PROJETOS/Instaclone/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/raphaelfreitasdasilva/PROJETOS/Instaclone/ios/Pods/Headers/Private/yoga/Yoga.h \
+  /Users/raphaelfreitasdasilva/PROJETOS/Instaclone/ios/Pods/Headers/Private/yoga/YGEnums.h \
+  /Users/raphaelfreitasdasilva/PROJETOS/Instaclone/ios/Pods/Headers/Private/yoga/YGMacros.h \
+  /Users/raphaelfreitasdasilva/PROJETOS/Instaclone/ios/Pods/Headers/Private/yoga/YGValue.h \
+  /Users/raphaelfreitasdasilva/PROJETOS/Instaclone/ios/Pods/Headers/Private/React-RCTImage/React/RCTImageLoader.h \
+  /Users/raphaelfreitasdasilva/PROJETOS/Instaclone/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Users/raphaelfreitasdasilva/PROJETOS/Instaclone/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Users/raphaelfreitasdasilva/PROJETOS/Instaclone/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/raphaelfreitasdasilva/PROJETOS/Instaclone/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Users/raphaelfreitasdasilva/PROJETOS/Instaclone/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Users/raphaelfreitasdasilva/PROJETOS/Instaclone/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Users/raphaelfreitasdasilva/PROJETOS/Instaclone/ios/Pods/Headers/Private/React-RCTImage/React/RCTResizeMode.h \
+  /Users/raphaelfreitasdasilva/PROJETOS/Instaclone/ios/Pods/Headers/Public/React-Core/React/RCTURLRequestHandler.h \
+  /Users/raphaelfreitasdasilva/PROJETOS/Instaclone/ios/Pods/Headers/Public/React-Core/React/RCTURLRequestDelegate.h \
+  /Users/raphaelfreitasdasilva/PROJETOS/Instaclone/ios/Pods/Headers/Public/React-RCTNetwork/React/RCTNetworking.h \
+  /Users/raphaelfreitasdasilva/PROJETOS/Instaclone/ios/Pods/Headers/Public/React-Core/React/RCTEventEmitter.h \
+  /Users/raphaelfreitasdasilva/PROJETOS/Instaclone/ios/Pods/Headers/Public/React-RCTNetwork/React/RCTNetworkTask.h \
+  /Users/raphaelfreitasdasilva/PROJETOS/Instaclone/node_modules/react-native/Libraries/Image/RCTImageCache.h \
+  /Users/raphaelfreitasdasilva/PROJETOS/Instaclone/node_modules/react-native/Libraries/Image/RCTImageUtils.h
